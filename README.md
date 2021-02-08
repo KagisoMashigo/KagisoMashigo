@@ -6,7 +6,7 @@ I am a full-stack web developer based in Montreal, Canada.
 
 Primarily experienced with Javascript, HTML, CSS, React, Express, PostgreSQL & Ruby/Rails. 
 
-Currently working on advanced React concepts and converting and old EJS project to React while seeking employment.
+Currently working on advanced React concepts and converting an old EJS project to React while seeking employment.
 
 My next steps are to learn golang and GraphQL.
 
