@@ -11,5 +11,7 @@ Currently working on advanced React concepts and converting an old EJS project t
 My next steps are to learn golang and GraphQL.
 
 Portfolio: https://kagisomashigo.github.io/portfolio/
+
 LinkedIn: https://www.linkedin.com/in/kagiso-the-coder/
+
 Email: kagiso.k.mashigo@gmail.com
