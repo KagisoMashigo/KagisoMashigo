@@ -14,4 +14,3 @@ Portfolio: https://kagisomashigo.github.io/portfolio/
 
 LinkedIn: https://www.linkedin.com/in/kagiso-the-coder/
 
-Email: kagiso.k.mashigo@gmail.com
