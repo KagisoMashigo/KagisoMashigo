@@ -6,7 +6,7 @@ I am a working as a full-stack web developer in Montreal, Canada.
 
 Primarily experienced with Javascript, HTML, CSS, React, Express, PostgreSQL & Ruby/Rails. 
 
-Currently working learning Python and Django.
+Currently learning Python and Django.
 
 My next steps are to learn golang and GraphQL.
 
