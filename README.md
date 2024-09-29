@@ -2,7 +2,7 @@
 
 My name is Kagiso, I also go by Iso. 
 
-I am a working as a full-stack developer in Montreal, Canada.
+I am a working as a full-stack developer in Toronto, Canada.
 
 Primarily experienced with Javascript, Dart, Flutter, CSS, React, Express, PostgreSQL & Firebase. 
 
